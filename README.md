@@ -1,8 +1,7 @@
-# React + Vite
+# User Management Application Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+https://github.com/tinaM17/UserManagementFrontend/assets/97033681/7f3a6bcf-bcb1-4a7c-986f-ec5a76d8e103
+
